@@ -9,5 +9,5 @@
 - CSS
 - JavaScript
 - Python
-- WF: Django
-- DB: MySQL
+- Framework: Django
+- Database: MySQL
